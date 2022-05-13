@@ -37,16 +37,18 @@ me.to_json()
 
 I am DataOps Engineer from :poland: working at [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
-I am currently working on Python & SQL :heartpulse: projects.
+I usually write various integrity checks around our sales data, altogether with API's.
+I am familiar with data modeling, wrangling, moving it out from one place into another.
 
-Since my job is to:
-- obtain and move or wrangle specific sales data between POS & ERP systems,
-- altogether with many integrity reports,
-- and because of my **NDA**.
+:x: Since my job is to:
 
-It's hard for me to share my code as others.
+:asterisk: obtain and move or wrangle specific sales data between POS & ERP systems,
+:asterisk: altogether with many integrity reports,
+:asterisk: and because of my **NDA**.
 
-However I plan to cover it up with some things in future :smile:!
+:interrobang: It's hard for me to share internal code as others.
+
+:hash: However I plan to cover it up with some custom things in future :smile:!
 
 ## Stats
 
