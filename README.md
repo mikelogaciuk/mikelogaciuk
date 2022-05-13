@@ -1,4 +1,10 @@
-![mikelogaciuk](./img/homescreen.png)
+<!--![mikelogaciuk](./img/homescreen.png)-->
+
+<p align="center">
+  <a href="https://github.com/mikelogaciuk">
+    <img width="1000" src="https://github.com/mikelogaciuk/mikelogaciuk/raw/main/img/homescreen.png" alt="logo" />
+  </a>
+</p>
 
 # Hi there 👋
 
