@@ -35,10 +35,9 @@ me.to_json()
 
 ## About me
 
-I am DataOps Engineer from :poland: working at [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
+I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
-I usually write various integrity checks around our sales data, altogether with API's.
-I am familiar with data modeling, wrangling, moving it out from one place into another.
+My job there is to write various integrity checks around our sales data, wrangle it or analyse and visualize for internal purposes, alerts or healthchecks.
 
 Since my job is to:
 
@@ -46,7 +45,7 @@ Since my job is to:
 - altogether with many integrity reports,
 - and because of my **NDA**.
 
-:interrobang: It's hard for me to share internal code as others :x:.
+It's hard for me to share internal code as others.
 
 However I plan to cover it up with some custom things in future :smile:!
 
