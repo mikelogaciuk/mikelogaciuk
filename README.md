@@ -30,28 +30,19 @@ me = DataOpsEngineer("Mike Logaciuk",
                      "DataOps Engineer",
                      1989,
                      ["pl_PL", "en_US"],
-                     ["T-SQL", "PL/SQL", "Python",
-                     "Pandas", "Numpy", "ETL"],
-                     ["SMSS", "SSIS", "VSCODE", "GRAFANA",
-                     "INTELLIJ IDEA", "PYCHARM", "DOCKER",
-                     "GITLAB", "CICD", "ERP", "POS"])
+                     ["T-SQL", "PL/SQL", "PYTHON",
+                     "PANDAS", "ETL", "ELT", "ERP", "POS"],
+                     ["SMSS", "VSCODE", "PYCHARM", "DOCKER",
+                     "GITLAB", "CICD", "GRAFANA", "SPLUNK"])
 
 me.to_json()
 ```
 
 ## About me
 
-I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
+I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
 
-My job there is to write various integrity checks around our sales data, wrangle it or analyse and visualize for internal purposes, alerts or healthchecks.
-
-Since my job is to:
-
-- obtain and move or wrangle specific sales data between POS & ERP systems,
-- altogether with many integrity reports,
-- and because of my **NDA**.
-
-It's hard for me to share internal code as others.
+My job there is to write various integrity checks around our sales data, wrangle it or analyse and visualize for internal purposes, alerts or healthchecks, but because of my **NDA** - it's quite complicated to share lots of code, since almost everything that I write is used for internal purposes.
 
 However I plan to cover it up with some custom things in future :smile:!
 
