@@ -44,13 +44,11 @@ I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)]
 
 My job there is to write various integrity checks around our sales data, wrangle it or analyse for internal purposes.
 
-Another part of my job is to create various dashboards, alerts or healthchecks.
+Another part of my job is to create various dashboards, alerts or health checks and reports for in company departments.
 
-Unfortunately, since almost everything that I write is used for internal purposes and because of my **NDA** - it's quite complicated to share the code publicly.
+Unfortunately, since almost everything that I write is used for internal purposes and hidden behind my **NDA** - it's quite complicated to share the internal code publicly.
 
-However I plan to cover it up with some custom things in future.
-
-If I find a time :smile:!
+However I plan to cover it up with some custom things in future (If I find time for it :smile:).
 
 ## Stats
 
