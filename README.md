@@ -42,9 +42,15 @@ me.to_json()
 
 I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
 
-My job there is to write various integrity checks around our sales data, wrangle it or analyse and visualize for internal purposes, alerts or healthchecks, but because of my **NDA** - it's quite complicated to share lots of code, since almost everything that I write is used for internal purposes.
+My job there is to write various integrity checks around our sales data, wrangle it or analyse for internal purposes.
 
-However I plan to cover it up with some custom things in future :smile:!
+Another part of my job is to create various dashboards, alerts or healthchecks.
+
+Unfortunately, since almost everything that I write is used for internal purposes and because of my **NDA** - it's quite complicated to share the code publicly.
+
+However I plan to cover it up with some custom things in future.
+
+If I find a time :smile:!
 
 ## Stats
 
