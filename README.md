@@ -27,9 +27,7 @@ print(api_flow("https://catfact.ninja/fact"))
 
 ## About me
 
-I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
-
-I write various integrity checks around our sales data, wrangle it or analyse for internal purposes and create various dashboards, alerts or health checks and reports for other in company departments.
+I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator, where I am responsible for various data analysis and engineering in sales  data related area.
 
 ## Stats
 
