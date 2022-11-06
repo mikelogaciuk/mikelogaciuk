@@ -2,32 +2,48 @@
 
 <p align="center">
   <a href="https://github.com/mikelogaciuk">
-    <img width="1000" src="https://github.com/mikelogaciuk/mikelogaciuk/raw/main/img/homescreen.png" alt="logo" />
+    <img width="1000" src="https://github.com/mikelogaciuk/mikelogaciuk/raw/main/img/homescreen_n.png" alt="logo" />
   </a>
 </p>
 
 # Hi there 👋
 
-```py
-@task
-def call_api(url):
-    response = requests.get(url)
-    print(response.status_code)
-    return response.json()
-
-
-@flow
-def api_flow(url):
-    fact_json = call_api(url)
-    return fact_json
-
-
-print(api_flow("https://catfact.ninja/fact"))
-```
-
 ## About me
 
-I am DataOps Engineer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator, where I am responsible for various data analysis and engineering in sales  data related area.
+I am ETL Developer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
+
+I am responsible for ETL engineering altogether with BI development and various data analysis in sales data related areas.
+
+As for languages, I use mainly:
+
+- `T-SQL` & `Pandas` (for data wrangling and analysis)
+- `Python` (for Data Engineering and backend development)
+- `Ruby` (for backend development)
+
+Apart from working with `Microsoft SQL Server`, `Oracle SQL` and `PostgresSQL` databases and `SSIS` as ETL tool.
+
+I use:
+
+- Dagster
+- Docker
+- Grafana
+- Meilisearch
+- OpenSearch
+- Splunk
+
+In the past I worked with:
+
+- Apache Superset
+- Airbyte
+- Elastic Kibana
+- Flyte
+- Metabase
+- Microsoft Reporting Services
+- Microsoft PowerBi
+- Prefect
+- Redash.
+
+In future, I am willing to work with `Scala` and `Go`.
 
 ## Stats
 
