@@ -24,7 +24,7 @@ Mainly working with:
 
     tsql pl/sql spl
     python ruby crystal
-    docker kubernetes
+    docker swarm kubernetes helm
     grafana splunk elk eck
     dagster prefect airflow ssis
 
