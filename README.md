@@ -10,40 +10,28 @@
 
 ## About me
 
-I am ETL Developer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
+I am DataOps Engineer & Backend Developer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
 
-I am responsible for ETL engineering altogether with BI development and various data analysis in sales data related areas.
+I am responsible for variety tasks including areas such as:
 
-As for languages, I use mainly:
+    Backend Development
+    Business Intelligence Development
+    DataOps Engineering
+    DevOps Engineering
+    ERP/CRM Administration
 
-- `T-SQL` & `Pandas` (for data wrangling and analysis)
-- `Python` (for Data Engineering and backend development)
-- `Ruby` (for backend development)
+Mainly working with:
 
-Apart from working with `Microsoft SQL Server`, `Oracle SQL` and `PostgresSQL` databases and `SSIS` as ETL tool.
+    tsql pl/sql spl
+    python ruby crystal
+    docker kubernetes
+    grafana splunk elk eck
+    dagster prefect airflow ssis
 
-I use:
+Currently learning:
 
-- Dagster
-- Docker
-- Grafana
-- Meilisearch
-- OpenSearch
-- Splunk
-
-In the past I worked with:
-
-- Apache Superset
-- Airbyte
-- Elastic Kibana
-- Flyte
-- Metabase
-- Microsoft Reporting Services
-- Microsoft PowerBi
-- Prefect
-- Redash.
-
-In future, I am willing to work with `Scala` and `Go`.
+    go
+    gitops
 
 ## Stats
 
