@@ -1,10 +1,10 @@
 <!--![mikelogaciuk](./img/homescreen.png)-->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mikelogaciuk">
     <img width="1000" src="https://github.com/mikelogaciuk/mikelogaciuk/raw/main/img/homescreen_n.png" alt="logo" />
   </a>
-</p>
+</p> -->
 
 # Hi there 👋
 
