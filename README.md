@@ -10,7 +10,7 @@
 
 ## About me
 
-I am DataOps Engineer & Backend Developer from :poland: Poland working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl) as a Senior SQL Server Applications Administrator.
+DataOps/DevOps/FinOps Enginner & Backend Devloper from :poland: Poland, who works for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
 I am responsible for variety tasks including areas such as:
 
@@ -18,6 +18,7 @@ I am responsible for variety tasks including areas such as:
     Business Intelligence Development
     DataOps Engineering
     DevOps Engineering
+    FinOps Engineering
     ERP/CRM Administration
 
 Mainly working with:
@@ -32,6 +33,12 @@ Currently learning:
 
     go
     gitops
+
+Planning to learn:
+
+    rust
+    c
+    scala
 
 ## Stats
 
