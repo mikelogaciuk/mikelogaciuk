@@ -31,14 +31,13 @@ Mainly working with:
 
 Currently learning:
 
+    scala
     go
-    gitops
 
 Planning to learn:
 
     rust
-    c
-    scala
+    nim
 
 ## Stats
 
