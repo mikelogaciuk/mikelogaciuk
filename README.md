@@ -10,7 +10,9 @@
 
 ## About me
 
-DataOps/DevOps/FinOps Enginner & Backend Devloper from :poland: Poland, who works for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
+DataOps/DevOps/FinOps Enginner & Backend Developer from :poland: Poland.
+
+Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
 I am responsible for variety tasks including areas such as:
 
@@ -25,8 +27,8 @@ Mainly working with:
 
     tsql pl/sql spl
     python ruby crystal
-    docker swarm kubernetes helm
-    grafana splunk elk eck
+    docker kubernetes helm
+    grafana splunk elk
     dagster prefect airflow ssis
 
 Currently learning:
