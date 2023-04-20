@@ -20,7 +20,6 @@ I am responsible for variety tasks including areas such as:
     Business Intelligence Development
     DataOps Engineering
     DevOps Engineering
-    FinOps Engineering
     ERP/CRM Administration
 
 Mainly working with:
@@ -30,16 +29,6 @@ Mainly working with:
     docker kubernetes helm
     grafana splunk elk
     dagster prefect airflow ssis
-
-Currently learning:
-
-    scala
-    go
-
-Planning to learn:
-
-    rust
-    nim
 
 ## Stats
 
