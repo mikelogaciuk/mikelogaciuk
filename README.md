@@ -24,10 +24,9 @@ I am responsible for variety tasks including areas such as:
 
 Mainly working with:
 
-    tsql pl/sql spl
-    python ruby crystal
+    tsql pl/sql python
     docker kubernetes helm
-    grafana splunk elk
+    grafana splunk elasticsearch
     dagster prefect airflow ssis
 
 ## Stats
