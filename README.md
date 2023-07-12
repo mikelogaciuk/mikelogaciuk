@@ -10,24 +10,32 @@
 
 ## About me
 
-DataOps/DevOps/FinOps Enginner & Backend Developer from :poland: Poland.
+DataOps/DevOps Enginner from :poland: Poland.
 
 Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
 I am responsible for variety tasks including areas such as:
 
-    Backend Development
-    Business Intelligence Development
-    DataOps Engineering
-    DevOps Engineering
     ERP/CRM Administration
-
+    DataOps Engineering
+    Business Intelligence Development
+    DevOps Engineering
+    Backend Development
+    
 Mainly working with:
 
     tsql pl/sql python
-    docker kubernetes helm
+    docker kubernetes helm terraform
     grafana splunk elasticsearch
-    dagster prefect airflow ssis
+    prefect kestra ssis airflow
+
+## Why my GIT is so private?
+
+Well to be honest, most of a code I write is for internal purposes only and can not be shared and used in public.
+
+Another thing is that while you work for 8-10 hours per day - you want to rest or learn something new in order to use during your another work day.
+
+I will try to add something new, probably a `home fake company cloud` project in future in order to demonstrate myself. 
 
 ## Stats
 
