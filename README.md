@@ -35,7 +35,7 @@ Well to be honest, most of a code I write is for internal purposes only and can 
 
 Another thing is that while you work for 8-10 hours per day - you want to rest or learn something new in order to use during your another work day.
 
-I will try to add something new, probably a `home fake company cloud` project in future in order to demonstrate myself. 
+You can read my few articles on [Hashnode.dev](https://mlog.hashnode.dev/).
 
 ## Stats
 
