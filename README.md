@@ -31,9 +31,7 @@ Mainly working with:
 
 ## Why my GIT is so private?
 
-Well to be honest, most of a code I write is for internal purposes only and can not be shared and used in public.
-
-Another thing is that while you work for 8-10 hours per day - you want to rest or learn something new in order to use during your another work day.
+Well to be honest, most of a code I write is for internal purposes only. It can not be shared and used in public.
 
 You can read my few articles on [Hashnode.dev](https://mlog.hashnode.dev/).
 
