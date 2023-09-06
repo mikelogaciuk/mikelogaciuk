@@ -13,16 +13,8 @@
 DataOps/DevOps Specialist from :poland: Poland.
 
 Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
-
-I am responsible for variety tasks including areas such as:
-
-    DevOps Engineering
-    DataOps Engineering
-    Backend Development
-    ERP Administration
-    Business Intelligence Development
   
-Mainly working with:
+Stack:
 
     tsql pl/sql 
     pandas polars duckdb pyspark sparksql
@@ -32,7 +24,7 @@ Mainly working with:
     prefect kestra ssis dagster airflow
 
 ## Articles
-You can read my few articles on [Hashnode.dev](https://mlog.hashnode.dev/).
+My tech blog can be found on [Hashnode.dev](https://mlog.hashnode.dev/).
 
 ## Stats
 
