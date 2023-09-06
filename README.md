@@ -10,7 +10,7 @@
 
 ## About me
 
-DevOps Specialist from :poland: Poland.
+DataOps/DevOps Specialist from :poland: Poland.
 
 Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
