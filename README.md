@@ -10,29 +10,26 @@
 
 ## About me
 
-DataOps/DevOps Enginner from :poland: Poland.
+DevOps Specialist from :poland: Poland.
 
 Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 
 I am responsible for variety tasks including areas such as:
 
-    ERP/CRM Administration
-    DataOps Engineering
-    Business Intelligence Development
     DevOps Engineering
+    DataOps Engineering
     Backend Development
-    
+    ERP Administration
+    Business Intelligence Development
+  
 Mainly working with:
 
-    tsql pl/sql python
-    docker kubernetes helm terraform
-    grafana splunk elasticsearch
-    prefect kestra ssis airflow
+    tsql pl/sql python ruby go
+    docker kubernetes openstack helm terraform
+    grafana splunk elasticsearch opensearch
+    prefect kestra ssis dagster airflow
 
-## Why my GIT is so private?
-
-Well to be honest, most of a code I write is for internal purposes only. It can not be shared and used in public.
-
+## Articles
 You can read my few articles on [Hashnode.dev](https://mlog.hashnode.dev/).
 
 ## Stats
