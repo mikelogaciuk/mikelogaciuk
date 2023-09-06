@@ -24,7 +24,9 @@ I am responsible for variety tasks including areas such as:
   
 Mainly working with:
 
-    tsql pl/sql python ruby go
+    tsql pl/sql 
+    pandas polars duckdb pyspark sparksql
+    python ruby go
     docker kubernetes openstack helm terraform
     grafana splunk elasticsearch opensearch
     prefect kestra ssis dagster airflow
