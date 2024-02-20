@@ -18,8 +18,9 @@ Stack:
 
     tsql pl/sql 
     pandas polars duckdb pyspark sparksql
-    python ruby go
-    docker kubernetes openstack helm terraform
+    python ruby crystal
+    docker kubernetes 
+    helm terraform
     grafana splunk elasticsearch opensearch
     prefect kestra ssis dagster airflow
 
