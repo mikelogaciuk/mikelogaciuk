@@ -25,7 +25,7 @@ Stack:
     prefect kestra ssis dagster airflow
 
 ## Articles
-My tech blog can be found on [Hashnode.dev](https://mlog.hashnode.dev/).
+My tech blog can be found [here](https://mikelogaciuk.github.io/).
 
 ## Stats
 
