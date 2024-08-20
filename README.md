@@ -17,8 +17,8 @@ Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
 Stack:
 
     tsql pl/sql 
-    pandas polars duckdb pyspark sparksql
-    python ruby crystal
+    pandas polars duckdb spark
+    python ruby
     docker kubernetes 
     helm terraform
     grafana splunk elasticsearch opensearch
