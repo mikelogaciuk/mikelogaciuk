@@ -13,18 +13,22 @@
 DataOps/DevOps Specialist from :poland: Poland.
 
 Working for [TERG S.A. (MediaExpert)](https://mediaexpert.pl).
-  
-Stack:
 
-    tsql pl/sql 
-    pandas polars duckdb spark
-    python ruby
-    docker kubernetes 
-    helm terraform
-    grafana splunk elasticsearch opensearch
-    prefect kestra ssis dagster airflow
+## Repositories
+
+Can't share any of internal code at the moment.
+  
+## Stack
+
+    tsql pl/sql
+    python ruby elixir typescript
+    containers kubernetes
+    helm terraform vagrant
+    grafana splunk elasticsearch
+    prefect dagster ssis
 
 ## Articles
+
 My tech blog can be found [here](https://mikelogaciuk.github.io/).
 
 ## Stats
